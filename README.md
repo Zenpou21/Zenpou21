@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://i.pinimg.com/originals/bb/09/75/bb09751b05a981a48a22dc20a113f0f9.gif" style="width:100%"/>
 <!--
 **Zenpou21/Zenpou21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
