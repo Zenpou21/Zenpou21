@@ -1,3 +1,3 @@
-<img src="https://media.tenor.com/_Di87mzcJ9sAAAAm/chibi-anime-boy.webp" style="width:100%; padding-left:200px"/>
+<img src="https://media.tenor.com/3GAsTSh04NkAAAAi/chibi-anime-boy.gif" style="width:100%; padding-left:200px"/>
 
 
