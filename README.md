@@ -1,9 +1,9 @@
-<table border="0" style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="vertical-align: middle; padding-right: 20px;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;">
       <img src="https://media1.tenor.com/m/cRs4lnEWw48AAAAC/everknight-evernight.gif" width="150"/>
     </td>
-    <td>
+    <td style="border: none;">
       <h2>👋 Hi, I'm Franz</h2>
       <p>
         I'm a passionate <strong>programmer</strong> who loves building modern, efficient, and creative projects.<br/>
