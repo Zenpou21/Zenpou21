@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="border: none; vertical-align: middle; padding-right: 20px;">
       <img src="https://media1.tenor.com/m/cRs4lnEWw48AAAAC/everknight-evernight.gif" width="150"/>
