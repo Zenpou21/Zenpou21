@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Zenpou21&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&text_bold=false" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenpou21&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenpou21&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&text_bold=false" alt="Top Languages" /></td>
   </tr>
 </table>
 
