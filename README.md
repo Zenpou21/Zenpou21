@@ -1,8 +1,8 @@
 <div align="center">
 
-## Franz Espina
 
-Front-end dev from the Philippines · React + TypeScript · the guy who also fixes the server
+
+A Front-end dev from the Philippines · React + TypeScript · the guy who also fixes the server
 
 </div>
 
