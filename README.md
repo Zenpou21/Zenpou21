@@ -15,10 +15,20 @@ Right now I'm at Mary Grace Café, leading the front-end side of our internal sy
 A few of our web apps also run on Android and desktop. Same React code, wrapped with Capacitor and Electron.
 
 ### Currently
-
+- building NaviTrack, a logistics and delivery platform (React + Laravel), more on it below
 - building a cat-collecting game on the side (React + Laravel)
 - making a DIY GPS tracker, hardware and all
 - getting better at DevOps the hard way, one production fire at a time
+
+### NaviTrack
+
+A delivery and fleet platform for a warehousing and logistics business. Still a work in progress.
+
+- plans delivery routes around delivery windows and road conditions
+- groups orders into clusters so each driver gets a sensible batch
+- turn-by-turn navigation for drivers and live order tracking for customers, built on TomTom
+- separate sides for the businesses storing goods, the warehouse team, and the customers receiving orders
+- next up: an Android driver app (Capacitor) and support for orders that ship through sea ports
 
 ### What I use
 
