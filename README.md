@@ -51,6 +51,6 @@ Anime, tinkering with electronics, and tuning my motorcycle.
 
 <div align="center">
 
-espinafranz17@gmail.com · [LinkedIn](https://www.linkedin.com/)
+espinafranz17@gmail.com · [LinkedIn](https://www.linkedin.com/in/francisco-espina-ii-ab8b15292/)
 
 </div>
