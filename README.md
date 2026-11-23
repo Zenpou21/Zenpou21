@@ -30,8 +30,8 @@ A few of our web apps also run on Android and desktop. Same React code, wrapped 
 
 ### Repos
 
-- [REACT-TYPESCRIPT-BOILERPLATE](https://github.com/Zenpou21/REACT-TYPESCRIPT-BOILERPLATE) - the starter I use for new projects
-- [react-form-builder](https://github.com/Zenpou21/react-form-builder) - form builder for React
+- [REACT-TYPESCRIPT-BOILERPLATE](https://github.com/Zenpou21/REACT-TYPESCRIPT-BOILERPLATE) - the starter I use for new projects (under development)
+- [react-form-builder](https://github.com/Zenpou21/react-form-builder) - form builder for React (under development)
 
 ### Outside code
 
