@@ -2,7 +2,7 @@
 
 
 
-A Front-end dev from the Philippines · React + TypeScript · the guy who also fixes the server
+A Senior Front-end dev from the Philippines · React + TypeScript · the guy who also fixes the server
 
 </div>
 
